@@ -1,0 +1,16 @@
+ <LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+    <ImageView
+          android:id="@+id/center_image"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+			
+         	android:src="@drawable/icon_wordpress" 
+          />
+
+</LinearLayout>
+ <!-- android:src="@drawable/icon_wordpress" -->  
